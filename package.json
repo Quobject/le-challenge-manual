@@ -1,0 +1,29 @@
+{
+  "name": "le-challenge-manual",
+  "version": "2.0.0",
+  "description": "A cli-based strategy for node-letsencrypt. Prints the ACME challenge Token and Key and then waits for you to hit enter before continuing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daplie/le-challenge-manual.git"
+  },
+  "keywords": [
+    "le-challenge",
+    "le-challenge-",
+    "manual",
+    "acme",
+    "letsencrypt",
+    "certbot",
+    "cli",
+    "commandline"
+  ],
+  "author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com/)",
+  "license": "(MIT OR Apache-2.0)",
+  "bugs": {
+    "url": "https://github.com/Daplie/le-challenge-manual/issues"
+  },
+  "homepage": "https://github.com/Daplie/le-challenge-manual#readme"
+}
